@@ -1,2 +1,1 @@
-# Travel-Agency-Project
- This is a console project for booking trips
+A simple command-line application.
